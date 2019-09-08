@@ -1,2 +1,2 @@
-,date,fare
-0,0,1257.0
+,date,fare,distance,duration,number of ride
+0,-9999,1257.0,302118,50907,64
